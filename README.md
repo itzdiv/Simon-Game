@@ -10,7 +10,7 @@
 <h1>Simon Game</h1>
 
 <p>Welcome to the <strong>Simon Game</strong>, a fun and engaging memory game! In this game, you have to remember and reproduce a sequence of colors that gets progressively longer and more challenging. Test your memory and see how many levels you can complete!</p>
-<p>Try it h Yourself: 🔗https://itzdiv.github.io/Simon-Game/</p>
+<p>Try it Yourself: 🔗https://itzdiv.github.io/Simon-Game/</p>
 
 <h2>How to Play</h2>
 <ol>
